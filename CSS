@@ -1,0 +1,46 @@
+<body>
+   <p> this is a  </p> 
+   <p id="p1"> this is a p1  </p> 
+   <p> this is a<span><a>this is a link1 </a></span> <a>this is a link </a> </p>
+   <a class="link">this is a link </a>
+   <p style="background:url(IMG.jpg) repeat fixed;">
+    This parapgraph has fixed repeated background image.
+    </p>
+    
+    letter-spacing
+    <p style="letter-spacing:5px;">
+    This text is having space between letters.
+    </p>
+    word-spacing
+    <p style="word-spacing:5px;">
+    This text is having space between words.
+    </p>
+    Text Alignment
+    <p style="text-align:right;">
+    This will be right aligned.
+    </p>
+    <p style="text-align:center;">
+    This will be center aligned.
+    </p>
+    <p style="text-align:left;">
+    This will be left aligned.
+    </p>
+    Decorating the Text
+    <p style="text-decoration:underline;">
+    This will be underlined
+    </p>
+    <p style="text-decoration:line-through;">
+    This will be striked through.
+    </p>
+    <p style="text-decoration:overline;">
+    This will have an over line.
+    </p>
+    
+    Space between Text
+    <p style="white-space:pre;">This text has a line break
+    and the white-space pre setting tells the browser to honor it
+    just like the HTML pre tag.</p>
+     <p class="one">This text has a line break
+        and the white-space pre setting tells the browser to honor it
+        just like the HTML pre tag.</p> 
+</body>
